@@ -1,0 +1,5 @@
+application:
+  provider:
+    server:
+      name: config-client-produce
+      url: http://localhost:9091
