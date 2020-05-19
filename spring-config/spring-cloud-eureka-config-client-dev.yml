@@ -1,0 +1,11 @@
+application:
+  provider:
+    server:
+      name: config-client-produce
+      instanceConfig:
+        ip:
+          - list1
+          - list2
+        limit:
+          - 5
+          - 10
